@@ -14,7 +14,7 @@
   "keywords": [],
   "socket": false,
   "url": "",
-  "manifest": "",
+  "manifest": "https://raw.githubusercontent.com/deckard24/COPS/0.01/world.json",
   "download": "",
   "license": "",
   "readme": "",
