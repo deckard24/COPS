@@ -1,0 +1,16 @@
+{"_id":"0ZYzEl6QANdY2Qhi","name":"---Compendium---","type":"Item","sort":200000,"flags":{},"parent":null,"sorting":"a","color":""}
+{"_id":"9hGasKhslke0Ddty","name":"en travail","type":"Item","sort":500000,"flags":{},"parent":null,"sorting":"a","color":""}
+{"name":"Inventaire","type":"Item","sort":1050000,"flags":{},"parent":"TSIMLyRp1k0U5cAY","sorting":"a","color":"","_id":"BiivdWiXDCdORL8i"}
+{"_id":"CSHAS4RoSaVDB2bx","name":"Tabs","type":"Item","sort":200000,"flags":{},"parent":"P9JCLoyzY4OnB2t2","sorting":"a","color":""}
+{"name":"compétences","type":"Item","sort":950000,"flags":{},"parent":"TSIMLyRp1k0U5cAY","sorting":"a","color":"","_id":"DTGaEIkc6VPi10cE"}
+{"_id":"FnBioQSyrbs70xrJ","name":"Group property","type":"Item","sort":500000,"flags":{},"parent":"P9JCLoyzY4OnB2t2","sorting":"a","color":""}
+{"name":"Infos","type":"Item","sort":450000,"flags":{},"parent":"TSIMLyRp1k0U5cAY","sorting":"a","color":"","_id":"HwL0tC3BzbIFjtyW"}
+{"_id":"P9JCLoyzY4OnB2t2","name":"--Template--","type":"Item","sort":100000,"flags":{},"parent":null,"sorting":"a","color":""}
+{"name":"Combat","type":"Item","sort":1150000,"flags":{},"parent":"TSIMLyRp1k0U5cAY","sorting":"a","color":"","_id":"R3bcrcNQdl8pWZDl"}
+{"name":"Caractéristiques","type":"Item","sort":550000,"flags":{},"parent":"TSIMLyRp1k0U5cAY","sorting":"a","color":"","_id":"RySnvarJJ2dFCPWt"}
+{"_id":"TSIMLyRp1k0U5cAY","name":"Properties","type":"Item","sort":100000,"flags":{},"parent":"P9JCLoyzY4OnB2t2","sorting":"a","color":""}
+{"_id":"U6nSnlndcVXeIZ8s","name":"Panel","type":"Item","sort":300000,"flags":{},"parent":"P9JCLoyzY4OnB2t2","sorting":"a","color":""}
+{"_id":"YBLhwcTjuTtpu9iu","name":"Templates","type":"Actor","sort":100000,"flags":{},"parent":null,"sorting":"a","color":""}
+{"name":"Compétences","type":"Item","sort":1250000,"flags":{},"parent":"0ZYzEl6QANdY2Qhi","sorting":"a","color":"","_id":"eN1hzvGdd6Y2A50U"}
+{"_id":"jFdl5v5eI0rtXUOL","name":"Group","type":"Item","sort":400000,"flags":{},"parent":"P9JCLoyzY4OnB2t2","sorting":"a","color":""}
+{"_id":"scEvTPOLvDPIywss","name":"Remisage","type":"Item","sort":400000,"flags":{},"parent":null,"sorting":"a","color":""}
