@@ -8,17 +8,7 @@
   "scripts": [],
   "esmodules": [],
   "styles": [],
-  "packs": [
-    {
-      "label": "Compétences",
-      "entity": "Item",
-      "name": "competences",
-      "path": "packs/competences.db",
-      "system": "sandbox",
-      "package": "world",
-      "absPath": "C:\\Users\\Bastien\\AppData\\Local\\FoundryVTT\\Data\\worlds\\cops\\packs\\competences.db"
-    }
-  ],
+  "packs": [],
   "languages": [],
   "authors": [],
   "keywords": [],
